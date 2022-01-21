@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfileformat.a CMakeFiles/fileformat.dir/elf/ELFFile.cpp.o CMakeFiles/fileformat.dir/pe/PEFile.cpp.o CMakeFiles/fileformat.dir/mp3/MP3File.cpp.o
+/usr/bin/ranlib libfileformat.a

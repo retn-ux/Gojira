@@ -1,0 +1,5 @@
+project(app)
+include_directories(${PROJECT_SOURCE_DIR}/Gojira/include)
+add_subdirectory(${PROJECT_SOURCE_DIR}/Gojira)
+add_executable(${PROJECT_NAME} main.cpp)
+target_link_libraries(${PROJECT_NAME} Gojira)

@@ -1,0 +1,9 @@
+G:/Projects/cpp-prj/Gojira/out/build/x64-Debug/CMakeFiles/app.dir
+G:/Projects/cpp-prj/Gojira/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+G:/Projects/cpp-prj/Gojira/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+G:/Projects/cpp-prj/Gojira/out/build/x64-Debug/Gojira/CMakeFiles/Gojira.dir
+G:/Projects/cpp-prj/Gojira/out/build/x64-Debug/Gojira/CMakeFiles/edit_cache.dir
+G:/Projects/cpp-prj/Gojira/out/build/x64-Debug/Gojira/CMakeFiles/rebuild_cache.dir
+G:/Projects/cpp-prj/Gojira/out/build/x64-Debug/Gojira/fileformat/CMakeFiles/fileformat.dir
+G:/Projects/cpp-prj/Gojira/out/build/x64-Debug/Gojira/fileformat/CMakeFiles/edit_cache.dir
+G:/Projects/cpp-prj/Gojira/out/build/x64-Debug/Gojira/fileformat/CMakeFiles/rebuild_cache.dir

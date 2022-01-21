@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Gojira",
+    "\\Gojira\\container",
+    "\\Gojira\\fileformat",
+    "\\Gojira\\fileformat\\mp3",
+    "\\Gojira\\fileformat\\pe",
+    "\\Gojira\\hook",
+    "\\Gojira\\io",
+    "\\Gojira\\memory",
+    "\\Gojira\\system"
+  ],
+  "SelectedNode": "\\Gojira\\fileformat\\mp3\\ini_mp3_assist.cpp",
+  "PreviewInSolutionExplorer": false
+}
